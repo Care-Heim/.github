@@ -1,4 +1,4 @@
-<img src="https://github.com/Care-Heim/.github/assets/90233522/9396e505-1bad-413a-bd83-e58e99e3198b" />
+<p align="center"><img src="https://github.com/Care-Heim/.github/assets/90233522/7a1608eb-9384-4370-9f9f-d085af10bde3" style="width: 550px"/></p>
 
 # 👀Project 소개
 케어하임은 **시각장애인을 위한 의류 세탁 정보 및 오염 안내 서비스** 입니다.  
@@ -22,7 +22,7 @@
 <br><br>
 
 # 📁Extra Documents
-<p><a href="https://youtu.be/NOAGtakMDkI target="_blank"><img src="https://img.shields.io/badge/📁_Document_link-7764A4?style=for-the-badge"/></a><br>
+<p><a href="https://github.com/Care-Heim/.github/blob/main/document/main.md target="_blank"><img src="https://img.shields.io/badge/📁_Document_link-7764A4?style=for-the-badge"/></a><br>
   <span>&emsp;&emsp;●&ensp;<strong>상세 문서</strong>&ensp;-&ensp;기능, 사용한 AI 등의 내용</span></p>
 <br>
 <p><a href="https://github.com/Care-Heim/.github/files/13650311/default.pdf target="_blank"><img src="https://img.shields.io/badge/📑_Paper_pdf-7764A4?style=for-the-badge" /></a><br>
