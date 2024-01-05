@@ -39,3 +39,4 @@
 |<img src="https://github.com/Care-Heim/.github/assets/90233522/5b6b014b-e453-41eb-bf84-e5420c85555f" style="width:250px;"/>|<img src="https://github.com/Care-Heim/.github/assets/90233522/ef2cb4ce-196d-42e8-b602-6780976958a8" style="width:250px;"/>|<img src="https://github.com/Care-Heim/.github/assets/90233522/9b5188cc-5d4a-4666-93e7-a3dea84ebd06" style="width:250px;"/>|
 |👾**Android**|🍓**Raspberry Pi/AI**|🖥️**Server/AI**|
 |[@oddlyk](https://github.com/oddlyk)|[@ayoungLim-dev](https://github.com/ayoungLim-dev)|[@zzo3ozz](https://github.com/zzo3ozz)|
+|👾[Repository](https://github.com/Care-Heim/Android)|🍓[Repository](https://github.com/Care-Heim/RaspberryPi)|🌱[Spring Repository](https://github.com/Care-Heim/Server) <br> 🧪[Flask Repository](https://github.com/Care-Heim/AI-Server)|
