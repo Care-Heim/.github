@@ -27,7 +27,7 @@
 <p><a href="https://github.com/Care-Heim/.github/blob/main/document/main.md" target="_blank"><img src="https://img.shields.io/badge/📁_Document_link-7764A4?style=for-the-badge"/></a><br>
   <span>&emsp;&emsp;●&ensp;<strong>상세 문서</strong>&ensp;-&ensp;기능, 사용한 AI 등의 내용</span></p>
 <br>
-<p><a href="https://github.com/Care-Heim/.github/files/13650311/default.pdf target="_blank"><img src="https://img.shields.io/badge/📑_Paper_pdf-7764A4?style=for-the-badge" /></a><br>
+<p><a href="https://github.com/Care-Heim/.github/files/13650311/default.pdf" target="_blank"><img src="https://img.shields.io/badge/📑_Paper_pdf-7764A4?style=for-the-badge" /></a><br>
   <span>&emsp;&emsp;●&ensp;<strong>논문</strong></span>&ensp;-&ensp;시각장애인을 위한 의류 세탁 정보 및 오염 안내 서비스 개발</p>
 <br><br>
 
