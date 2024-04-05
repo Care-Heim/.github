@@ -37,7 +37,7 @@
 <br><br>
 
 # 👥Contributor
-|✨김묘경, Myokyung Kim✨|✨김아영, Ayoung Kim✨|✨한서영, Seoyoung Han✨|
+|✨김묘경, Myokyung Kim✨|✨김아영, Ayoung Lim✨|✨한서영, Seoyoung Han✨|
 |:---:|:---:|:---:|
 |<img src="https://github.com/Care-Heim/.github/assets/90233522/5b6b014b-e453-41eb-bf84-e5420c85555f" style="width:250px;"/>|<img src="https://github.com/Care-Heim/.github/assets/90233522/ef2cb4ce-196d-42e8-b602-6780976958a8" style="width:250px;"/>|<img src="https://github.com/Care-Heim/.github/assets/90233522/9b5188cc-5d4a-4666-93e7-a3dea84ebd06" style="width:250px;"/>|
 |👾**Android**|🍓**Raspberry Pi/AI**|🖥️**Server/AI**|
